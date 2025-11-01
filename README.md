@@ -1,4 +1,4 @@
-! [alt text](https://github.com/Bonang-skaton/BoxingCoach/blob/main/images/bonang.jpg?raw=true)
+! [alt text](https://github.com/Bonang-skaton/BoxingCoach/blob/main/images/logobox.jpg?raw=true)
 # boxing coach
 # Boxing Coach
 # bonang-BOXING-COACH
